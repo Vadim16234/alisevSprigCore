@@ -1,8 +1,8 @@
 package org.example;
 
-import lombok.Data;
+//import lombok.Data;
 
-@Data
+//@Data
 public class MusicPlayer {
     private Music music;
     private String name;
