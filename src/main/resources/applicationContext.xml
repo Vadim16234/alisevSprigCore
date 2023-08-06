@@ -4,7 +4,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans
        http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="testBean" class="org.example.TestBean">
-        <constructor-arg value="Tom"/>
+    <bean id="musicBean" class="org.example.ClassicalMusic">
+
     </bean>
 </beans>
